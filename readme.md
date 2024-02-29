@@ -25,6 +25,10 @@ An IoT VU meter for...whatever you want.
 
 ![](images/parts.jpg)
 
+## License
+
+Code, schematics, and models (excluding the two listed below) are licensed under GPL v3 (see license file for details).
+
 ## Attributions
 
 - Raspberry Pi Pico-R3 model is from https://thangs.com/designer/Evil%20Genius%20Laboratory/3d-model/Raspberry%20Pi%20Pico-12567
