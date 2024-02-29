@@ -4,6 +4,10 @@ An IoT VU meter for...whatever you want.
 
 ![](images/nuvu.jpg)
 
+## More Info
+
+The accompanying blog post can be found [here](https://asciigraves.net/posts/nuvu-meter/).
+
 ## In this Repo
 - Arduino code for the Pi Pico is in the `/code` folder
 - FreeCAD project file, STLs, and gcode for an Ender 3 are in the `/enclosure` folder
